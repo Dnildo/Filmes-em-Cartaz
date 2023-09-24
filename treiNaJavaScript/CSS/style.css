@@ -1,0 +1,6 @@
+body {
+    background-image: linear-gradient(14deg, rgb(230, 199, 199) 9%, rgb(240, 165, 165) 4%, rgba(255, 170, 140, 255) 10%);
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
